@@ -7,3 +7,5 @@ As stated above, the main purpose is to proide simple examples...
 ## Deployment
 Blah blah
 ## How to contribute
+### Copyright
+2020 Git.Training

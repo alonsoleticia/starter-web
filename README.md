@@ -9,4 +9,4 @@ Blah blah
 ## How to contribute
 Please fork this repo and the issue pull request for review. 
 ### Copyright
-2020 Git.Training
+2020 Git.Training. All rights reserved.
